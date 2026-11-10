@@ -1,0 +1,244 @@
+{
+  "id": "ifc silly sample scene - project",
+  "projectId": "2Ndyd$OSX7s9A04nc4lyye",
+  "author": "",
+  "createdAt": "2026-06-23T11:53:46",
+  "schema": "IFC4",
+  "creatingApplication": "BIM_Tools - Sketchup_IFC_manager - 5.6.0",
+  "metaObjects": [
+    {
+      "id": "2Ndyd$OSX7s9A04nc4lyye",
+      "name": "ifc silly sample scene - project",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "23sFQGRy90RxVbRHD9iSE2",
+      "name": "environment - site",
+      "type": "IfcSite",
+      "parent": "2Ndyd$OSX7s9A04nc4lyye"
+    },
+    {
+      "id": "3Fit2Fad92zf2f6aWdJtF5",
+      "name": "geo-reference",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1adp27B_9CUfup2ojuKOng",
+      "name": "road parking - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1F4KLUGJf1aAa0YXxTvOR5",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1adp27B_9CUfup2ojuKOng"
+    },
+    {
+      "id": "0uGYOC9Nz33PfGM5uuVHhW",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1adp27B_9CUfup2ojuKOng"
+    },
+    {
+      "id": "259jK4QKD3OPEdfCl4GH_l",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1adp27B_9CUfup2ojuKOng"
+    },
+    {
+      "id": "0_AaoqH0fA_wWg2hQ6QoLY",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1adp27B_9CUfup2ojuKOng"
+    },
+    {
+      "id": "0X_fsZ0Kj9a8olHcZQNbJM",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1adp27B_9CUfup2ojuKOng"
+    },
+    {
+      "id": "3Awuj1sjH8ERw7F1J6oBZs",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1adp27B_9CUfup2ojuKOng"
+    },
+    {
+      "id": "3D4ahkhjP7dujyPNisZ2F$",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1adp27B_9CUfup2ojuKOng"
+    },
+    {
+      "id": "0FQ6pMwzXBJucYaRTqfuw2",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1adp27B_9CUfup2ojuKOng"
+    },
+    {
+      "id": "3pnaj3EgL1cOScZHtoQhHO",
+      "name": "road river bridge - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0dEBwmfnvBq9OyNfYNowGR",
+      "name": "sewer manhole",
+      "type": "IfcDistributionChamberElement",
+      "parent": "3pnaj3EgL1cOScZHtoQhHO"
+    },
+    {
+      "id": "0xp5S6qvHAWPQZNi_oyNRF",
+      "name": "sewer manhole",
+      "type": "IfcDistributionChamberElement",
+      "parent": "3pnaj3EgL1cOScZHtoQhHO"
+    },
+    {
+      "id": "3vzNAxKB5AJA_Ehx4miINx",
+      "name": "road river bridge",
+      "type": "IfcBuilding",
+      "parent": "3pnaj3EgL1cOScZHtoQhHO"
+    },
+    {
+      "id": "2Wad9UE39Fl81buLr2dp_x",
+      "name": "rail river bridge - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2kjWGt90HF_gBQxs$Lsfkw",
+      "name": "rail bridge",
+      "type": "IfcBuilding",
+      "parent": "2Wad9UE39Fl81buLr2dp_x"
+    },
+    {
+      "id": "1$CApj9YLCeu0YyH5TXRVh",
+      "name": "road rail bridge - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "00ZvlN19v73wE8JOyDmPjG",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "3E8poO$Er6gPhLg44LF$bc",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "0yh8Z9_qzCIgcsXg7r4Ix6",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "1PI8m4Ts17Z8hvG889Pb1i",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "398dvTdH9FKwML6pMEemhK",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "0tZgj2n4j7neNsQ08k3WsT",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "22Xr2mF15CbQCVR$W_$VLh",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "1wwTT4jtX3C9e82mYC6YGT",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "1GXiy3xWf0fOQdC$gO8JfW",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "0URFt4JXXD6OjZF8OrkR8N",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "3JNhAW3zLAmRKwMCykb3V5",
+      "name": "rail bridge",
+      "type": "IfcBuilding",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "2syxA9_lr7Ew2uZai3VhhS",
+      "name": "road - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1kpVA_DFf3PRJR$l8yqtLr",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "2syxA9_lr7Ew2uZai3VhhS"
+    },
+    {
+      "id": "3ctB5z6nHCoQBWFJYnFhI5",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "2syxA9_lr7Ew2uZai3VhhS"
+    },
+    {
+      "id": "11LWvWX7HAOghcDUC_Fsn5",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "2syxA9_lr7Ew2uZai3VhhS"
+    },
+    {
+      "id": "2L8jfzclb09OjhbeQoBDvs",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "2syxA9_lr7Ew2uZai3VhhS"
+    },
+    {
+      "id": "0SESIjUgvFsOoEqvCaV5Br",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "2syxA9_lr7Ew2uZai3VhhS"
+    },
+    {
+      "id": "1FDcvNA_L4dfRDGP$UNpz1",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "2syxA9_lr7Ew2uZai3VhhS"
+    },
+    {
+      "id": "0RPLlDbKvCJwFzsj8RPg4X",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "2syxA9_lr7Ew2uZai3VhhS"
+    },
+    {
+      "id": "1PYbWto7LA0hTpEdNPg6Df",
+      "name": "sewer pipe",
+      "type": "IfcPipeSegment",
+      "parent": "2syxA9_lr7Ew2uZai3VhhS"
+    }
+  ]
+}

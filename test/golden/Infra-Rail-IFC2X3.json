@@ -1,0 +1,496 @@
+{
+  "id": "ifc silly sample scene - project",
+  "projectId": "2Ndyd$OSX7s9A04nc4lyye",
+  "author": "",
+  "createdAt": "2026-06-23T11:53:16",
+  "schema": "IFC2X3",
+  "creatingApplication": "BIM_Tools - Sketchup_IFC_manager - 5.6.0",
+  "metaObjects": [
+    {
+      "id": "2Ndyd$OSX7s9A04nc4lyye",
+      "name": "ifc silly sample scene - project",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "23sFQGRy90RxVbRHD9iSE2",
+      "name": "environment - site",
+      "type": "IfcSite",
+      "parent": "2Ndyd$OSX7s9A04nc4lyye"
+    },
+    {
+      "id": "0vMmNglnHCxwAXN15KG$Y3",
+      "name": "Rail track",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3Ixq0AlaX2PR0EdMfWL49i",
+      "name": "rail",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "0gOEB3nvP8w8b2x7dkCurB",
+      "name": "rail",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "2VSzSEJibEmQCf1lSBr3vL",
+      "name": "ballastbed",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "0mApyqgbP3kwWGcMHpBgdC",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "1gG3H$M4nC18HrcjbZfxcQ",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "2pFyoP4czDyPD7YSYV0g1I",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "0LmYrpL31BLxBAY291UUPV",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "3CF5zUVrXC$xgrsKXU$XAx",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "1jPuNq3399wwsfi63CaYtQ",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "2hC6KuMWz8T8p3DKcB74Nr",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "3ooxVTKoDDyAfZgN27B0Xt",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "3QRjVXoH17pvJxTHfLfGTz",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "1A14NvUhv2_wMj4mxmA7o0",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "0rTKpqwfH8ZvpESUY9mK0D",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "0bjxY5edf3ORsHsGFLUXnG",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "1p7IOkE9j9cwFyx4_vQUH$",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "0X2A_iiNzCc9sTeIrZyf9i",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "240DDX4Zv7ZRBebISw7amg",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "0SNcQbysLA08i6DTmPfdl$",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "1KgKJls3H9_u5Xd8c_HS7x",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "3b4O_fC9b728g3ldIvq6l2",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "20FBV5Tcj4yeFIkA119U20",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "1J8_j1nRDDfQQXFNU6jh1C",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "3jf03qOPH8oftXrH9IVkSa",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "2SCufMLTX7xQpijUrlgbDl",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "3BWkltsLT1kg_mUdP5q1Mv",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "0NjD4eL$13aPRyMEU8_Pur",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "0y55PkXXrAfxfuCFlVHxdf",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "1DlyW6vE1AFxD298O5l6sU",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "3yQtEGRLLAuwH0EvMJUSpX",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "2mQystxXrBl9nXWHqw58UW",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "2aNIR9HKD6lPzpHEoqth$b",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "2dSJ10Gxv9AR$_DmiMCtSq",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "225m02QHv3mhkTXinDpbnC",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "2HKuqlX7D0UQ6Ws7xU2Tpj",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "3615LYIInAVAKMJ7MpZ30R",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0vMmNglnHCxwAXN15KG$Y3"
+    },
+    {
+      "id": "1Y4VQW3SD4UO4o4Dn6KDad",
+      "name": "Rail track",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "14O93KCH5CcwgIvHrgZEXj",
+      "name": "rail",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "2$czTi6GrAHxd14aD6Qmmc",
+      "name": "rail",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "29NeQDl9r0RPTH7F43W1He",
+      "name": "ballastbed",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "2G0mFQhK929u_6An0lBNTZ",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "1Hb6PCblD2ZuvhFdwzUotD",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "15Q88nz595tP5ei3_pAQgO",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "0JskQH3CjFQwvVhALUzox1",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "1dc6DrbT90UA9pg9Z3rs4Z",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "3eijguL1P9Nfvjs$Xpqdpu",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "2xpMIc_0H2iuAG4BcTIFAT",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "3qB7jvnzzCdhkb6SWzwgkc",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "2vvVUDLqjBxRXxfI3C2q$r",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "0v0w97H9D0vhXlZ8fsd1v_",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "1j_ofp0_jDkQibnMsl$T_a",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "3a7SkZ5Ar1xxhiVrdbOBRI",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "1VhaT3K8H2lPdXb8NqCPZs",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "0W$6qwCif1ePgGk6Sh$apd",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "0BRh6j4b90nA0leMHsST_R",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "0xoA7NQgD7lRlwTspYVfko",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "0l0npIYpb0jwRcuQumw8GS",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "28xYqtZ4vF0RoQVLMjR04U",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "1qU3xMaZz2Av3pVOxzfZKW",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "30nYk7ZUj7BeZTiiCyQzG3",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "2fLDxlSJ5658K2aKlEUuO$",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "3A9NNgob1BBODyEmbQaSNY",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "0KPcs1y3j3YezA6xslC0pO",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "3qFv979eH6S8MEUxE$yKtu",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "2ea9NtvwjBGfaygNYjxAxe",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "1TPGJrtGD5GuYtVCcv8tWE",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "3PcU1ZuFj2Aev0J8hzhHvy",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "0dRF_swOj9Z89ywNzIYxlz",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "1XcDIiNyv9uuTZP4jDMfO$",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "2UXPKrUxb1NPLYxy3$uCcp",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "1o4sQbZYD7EfuX2weAoHYD",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "1_XScBOSD3h8oErFHWZl76",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "3_fqSk$jXDlgUncZWfXZMS",
+      "name": "sleeper wood",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Y4VQW3SD4UO4o4Dn6KDad"
+    },
+    {
+      "id": "00ZvlN19v73wE8JOyDmPjG",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3E8poO$Er6gPhLg44LF$bc",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3Fit2Fad92zf2f6aWdJtF5",
+      "name": "geo-reference",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "144_CJ8b1C7xe6fkDXe2iD",
+      "name": "Rail track",
+      "type": "IfcBuilding",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1OAsMV9659sQQS2f3ETl_F",
+      "name": "Rail track",
+      "type": "IfcBuilding",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    }
+  ]
+}

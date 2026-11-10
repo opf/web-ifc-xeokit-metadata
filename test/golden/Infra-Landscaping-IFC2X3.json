@@ -1,0 +1,688 @@
+{
+  "id": "ifc silly sample scene - project",
+  "projectId": "2Ndyd$OSX7s9A04nc4lyye",
+  "author": "",
+  "createdAt": "2026-06-23T11:53:14",
+  "schema": "IFC2X3",
+  "creatingApplication": "BIM_Tools - Sketchup_IFC_manager - 5.6.0",
+  "metaObjects": [
+    {
+      "id": "2Ndyd$OSX7s9A04nc4lyye",
+      "name": "ifc silly sample scene - project",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "23sFQGRy90RxVbRHD9iSE2",
+      "name": "environment - site",
+      "type": "IfcSite",
+      "parent": "2Ndyd$OSX7s9A04nc4lyye"
+    },
+    {
+      "id": "0kxkKDn4D1eeFCAOH4KGno",
+      "name": "park - site - underground",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0M2sbzQN5118y7AjXX0eto",
+      "name": "park - site - grass",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1QMfWcFQTA9O1jjwSzla9K",
+      "name": "apple tree",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3vx6_W1mX1S83jQvw29lOf",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0vL1f7P1v7uBqiB2O8sdFK",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0mvo1hriT8CepdkQqmgoF3",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2JPl80391DWOGDdwWWXFPd",
+      "name": "Apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0xwgMcHYT2eRCklSRcbiBQ",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3cD4ZOuQPCRQ8OWjEKESk1",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0xGEgLebL6RBpH$oFPX8q1",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1xR2u7w455dR$kmwHtobFt",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "10Xnlx0yf45xZQZyAPLYp0",
+      "name": "apple tree",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3BxsnesIT2bRXBkHBiAphy",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3oJ823HYX3TgOV10vGIMAW",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3NaKhZF_H0j9I0iTrs$39y",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3ZCX_J5813FuVqLqW7sfaX",
+      "name": "Apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "27YzHcsZ59VeXncfoYwrOi",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0o_EHtzHHEAu9f1xlkkDI$",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2Aqa5eVSf7kAJZUcvO6vKx",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1CibP_Kl55ng8UGqbf2AUo",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3C2b0D8KH4AxHtK_sGyYZn",
+      "name": "apple tree",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3z6SQBV0H8EuEU0UjTsAsx",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1Yndm_y7n0jg2p1BtguSXE",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0pkG5TJkn4evS6mBe4ngYE",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0jQK5sMMD8pPQOYIL3fMLQ",
+      "name": "Apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3gOJz0hPf5SADxYaVJvZet",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2Lg6a_cuv5W98bVQeiW5Ae",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1M7UK0m3n979AnQhT6W4M5",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0p3IFiErXBr8g6kcGPZ6hY",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1kmsJIV8L3OAydmxlleNWE",
+      "name": "apple tree",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1g5NWJIznEsPpM20IzWrAA",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2B9m1Y8OnEfgAgQXqh3big",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1LrJS2N1D10Be_HXoC_HPY",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1PmlOHhBP8M8UUjNHPjIgM",
+      "name": "Apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3U7E5O1kDC5haP6HSdoYH3",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0H2Fj8PHjBtufQFTNt7gZ3",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3WRI1ikur5uxL5vcUn4Mmn",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3V$aG3qaD0WhlQwmB_ch48",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3j0RbM_5D6kuNp7_ekCapp",
+      "name": "apple tree",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0DFOuaLp16JBUO4hG7x8Bp",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1930YPueX52fWdZ7Tjt9u5",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3hIzy9x$1FrvLW_eZfXIFH",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "32iZ9$2Ob83RMNJ$WPMAvt",
+      "name": "Apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0WPf4sWN115fZWKKMG51QK",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0ACwnN3Cj2rggwsuTfXYXg",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2xCCpcPIL1MA_NeSePVYF9",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1DOk4dbjL4RBrmfERDBItZ",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1TobdrlgjE7ey2pSa1_rn_",
+      "name": "apple tree",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3NxIl_jy5EvhHcurA624Kq",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3NE787uKT99fsBosLiARMz",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0HqE5ZK_X3$Am$63ry5M49",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2U7J29jKfEmu2x3vc3IPlQ",
+      "name": "Apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2MA8RLO756yAvR_qfdFRSk",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2ct40a7m9E5epJ_VWc96sZ",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "17UdkshtL4AfSN7WDXqJnB",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2MvD_$go5AVQGkLrO1zeoC",
+      "name": "apple",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0AvtbehUT0ufHHGkEVMdAJ",
+      "name": "park - site - soil",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1oCnnOla1FDPx46DM7Axrx",
+      "name": "Difference",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2eGMeS8JXEqPOIXktx3T6F",
+      "name": "road parking - roadside verge - soil",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1wCkCBBYT8eOqYsD_tvSU_",
+      "name": "road parking - roadside verge - grass",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0Hnf$wQvbCM9cNIukPXgRJ",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "30oyY5EPT7b8538BYwrMA6",
+      "name": "highway location marker - post",
+      "type": "IfcMember",
+      "parent": "0Hnf$wQvbCM9cNIukPXgRJ"
+    },
+    {
+      "id": "1UcPcFYFnFGf9oxVKgJvYL",
+      "name": "highway location marker - sign",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0Hnf$wQvbCM9cNIukPXgRJ"
+    },
+    {
+      "id": "35JIsNEAvDc8SWX$yCbDjK",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1ZId9ZD4b6hhdGUwoS_84p",
+      "name": "highway location marker - post",
+      "type": "IfcMember",
+      "parent": "35JIsNEAvDc8SWX$yCbDjK"
+    },
+    {
+      "id": "024xXOLR58MwcQg4WijX_3",
+      "name": "highway location marker - sign",
+      "type": "IfcBuildingElementProxy",
+      "parent": "35JIsNEAvDc8SWX$yCbDjK"
+    },
+    {
+      "id": "0xAZ6srWD07PtIPatQzs$P",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "28hmQL3mjBIfb_ebI4qpXd",
+      "name": "highway location marker - post",
+      "type": "IfcMember",
+      "parent": "0xAZ6srWD07PtIPatQzs$P"
+    },
+    {
+      "id": "2ypUkw9of26hgUb5MNJ_ZN",
+      "name": "highway location marker - sign",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0xAZ6srWD07PtIPatQzs$P"
+    },
+    {
+      "id": "0p1NGN3yX61vwKVbOBrW$P",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "32131LhGbDMAs5IUHOhPTD",
+      "name": "highway location marker - post",
+      "type": "IfcMember",
+      "parent": "0p1NGN3yX61vwKVbOBrW$P"
+    },
+    {
+      "id": "18egTHa0TABBijPOg5oimA",
+      "name": "highway location marker - sign",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0p1NGN3yX61vwKVbOBrW$P"
+    },
+    {
+      "id": "0zGSqxrLf0ngxWk8EXkozt",
+      "name": "river stream",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0yVWtUza9BkBPidcrOmhrJ",
+      "name": "river bed",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3pUQsWUqb8deDoLZ6CIIET",
+      "name": "road river bridge - underground",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3pzBWeief4XhSr5Lnykkbq",
+      "name": "road river bridge - grass",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "287A5dK8D58QqsO5r7jizn",
+      "name": "road river bridge - soil",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1sTB_zWkL60wf222JDpdtq",
+      "name": "tree",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2TzRIQ3TD0iQjVQn_kRILO",
+      "name": "river stream",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0o2OoK8Yb7qRy$y$FrAd1z",
+      "name": "river bed",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1FI54l9HzB2PvEGvFyXLbP",
+      "name": "underground - river",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1$67KLp617FxOmPEpt1Ymd",
+      "name": "riverside - grass",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0JNuUw_1TBkwsuM7gZ2ttT",
+      "name": "riverside - soil",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3yJaFIRt9AOBik83xpTf6R",
+      "name": "Difference",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3$Tc0Y2BH1KhfYOdLzGw$7",
+      "name": "road - roadside verge - soil",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2zsnPhHoPDyPxIp9st53so",
+      "name": "road - roadside verge - grass",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "00ZvlN19v73wE8JOyDmPjG",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0CBYVcIsj81uRh9cxs7LZd",
+      "name": "highway location marker - post",
+      "type": "IfcMember",
+      "parent": "00ZvlN19v73wE8JOyDmPjG"
+    },
+    {
+      "id": "0bFvkZvPnFIh5_uR6vMz8r",
+      "name": "highway location marker - sign",
+      "type": "IfcBuildingElementProxy",
+      "parent": "00ZvlN19v73wE8JOyDmPjG"
+    },
+    {
+      "id": "3E8poO$Er6gPhLg44LF$bc",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "16UMCV4efA9hyR82LVCmc8",
+      "name": "highway location marker - post",
+      "type": "IfcMember",
+      "parent": "3E8poO$Er6gPhLg44LF$bc"
+    },
+    {
+      "id": "1doAY7u3X8TO5A5XwZzMhW",
+      "name": "highway location marker - sign",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3E8poO$Er6gPhLg44LF$bc"
+    },
+    {
+      "id": "3Fit2Fad92zf2f6aWdJtF5",
+      "name": "geo-reference",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0_UEnkz4D4YfsaN2mtDSb4",
+      "name": "generic - site - underground",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1DqmYaokf4ie_5kATXxw$A",
+      "name": "grass - site - soil",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2nns7UQnX5qgnLN9BIpK58",
+      "name": "grass - site - grass",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0kRLmKedj2lQU9XmO6AiiB",
+      "name": "Difference",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3$ZN4KG314FxghY0Vo$dvz",
+      "name": "road - roadside verge - soil",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0N_6HAKnH7DfoyrBKIGAm2",
+      "name": "road - roadside verge - grass",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1T4p6ZGRv01fbKg9blo1cB",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0bjYaEhBHB9ggusMYJds7m",
+      "name": "highway location marker - post",
+      "type": "IfcMember",
+      "parent": "1T4p6ZGRv01fbKg9blo1cB"
+    },
+    {
+      "id": "1EgGZBqJH2nhxvBhXL5aAu",
+      "name": "highway location marker - sign",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1T4p6ZGRv01fbKg9blo1cB"
+    },
+    {
+      "id": "2t8HycAM1DXuldObNa2Iwo",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1oLAKxvofAx8$NtHN3GlTl",
+      "name": "highway location marker - post",
+      "type": "IfcMember",
+      "parent": "2t8HycAM1DXuldObNa2Iwo"
+    },
+    {
+      "id": "1M3Vul3815kQUhtf2I_Skt",
+      "name": "highway location marker - sign",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2t8HycAM1DXuldObNa2Iwo"
+    },
+    {
+      "id": "23UGBywNfEOfdaQ1y614AM",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0FBBSkMCv4H9u$XjhFm7YV",
+      "name": "highway location marker - post",
+      "type": "IfcMember",
+      "parent": "23UGBywNfEOfdaQ1y614AM"
+    },
+    {
+      "id": "2T95Xtq0rFePGIDJ4PqyFj",
+      "name": "highway location marker - sign",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23UGBywNfEOfdaQ1y614AM"
+    },
+    {
+      "id": "0zVRALYpv94RdFxPi6mV6c",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2e7_59uajDNghb7cvuyoAQ",
+      "name": "highway location marker - post",
+      "type": "IfcMember",
+      "parent": "0zVRALYpv94RdFxPi6mV6c"
+    },
+    {
+      "id": "2k2lifnhL40AslzJB9Bx$W",
+      "name": "highway location marker - sign",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0zVRALYpv94RdFxPi6mV6c"
+    }
+  ]
+}

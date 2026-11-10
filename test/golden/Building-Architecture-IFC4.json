@@ -1,0 +1,136 @@
+{
+  "id": "ifc silly sample scene - project",
+  "projectId": "2Ndyd$OSX7s9A04nc4lyye",
+  "author": "",
+  "createdAt": "2026-06-23T11:53:44",
+  "schema": "IFC4",
+  "creatingApplication": "BIM_Tools - Sketchup_IFC_manager - 5.6.0",
+  "metaObjects": [
+    {
+      "id": "2Ndyd$OSX7s9A04nc4lyye",
+      "name": "ifc silly sample scene - project",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "23sFQGRy90RxVbRHD9iSE2",
+      "name": "environment - site",
+      "type": "IfcSite",
+      "parent": "2Ndyd$OSX7s9A04nc4lyye"
+    },
+    {
+      "id": "3Fit2Fad92zf2f6aWdJtF5",
+      "name": "geo-reference",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1Pbuu0tu59NfhrTsztVBK1",
+      "name": "house - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2iPwJwpPDCSgMheXwk9cBT",
+      "name": "house - roof",
+      "type": "IfcRoof",
+      "parent": "1Pbuu0tu59NfhrTsztVBK1"
+    },
+    {
+      "id": "0ZTBBPo6f6bxqV2K7Oelrq",
+      "name": "house - roof - slab left",
+      "type": "IfcSlab",
+      "parent": "2iPwJwpPDCSgMheXwk9cBT"
+    },
+    {
+      "id": "12UVOn4wvAJPMUExKdZLb8",
+      "name": "house - roof - slab right",
+      "type": "IfcSlab",
+      "parent": "2iPwJwpPDCSgMheXwk9cBT"
+    },
+    {
+      "id": "1yP7NInQz5uQzbiOpVFFJr",
+      "name": "house - gross volume",
+      "type": "IfcSpatialZone",
+      "parent": "1Pbuu0tu59NfhrTsztVBK1"
+    },
+    {
+      "id": "3_4VN63S96DfWiJjgG8j1C",
+      "name": "sand bedding",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Pbuu0tu59NfhrTsztVBK1"
+    },
+    {
+      "id": "2F44QMqSH3TOkM$SZoqCBe",
+      "name": "origin",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Pbuu0tu59NfhrTsztVBK1"
+    },
+    {
+      "id": "0c$N1CTon2BB2Sp89385G8",
+      "name": "Single-family house",
+      "type": "IfcBuilding",
+      "parent": "1Pbuu0tu59NfhrTsztVBK1"
+    },
+    {
+      "id": "1Ano2ZUxnEIvVQ_beukl8b",
+      "name": "00 groundfloor",
+      "type": "IfcBuildingStorey",
+      "parent": "0c$N1CTon2BB2Sp89385G8"
+    },
+    {
+      "id": "3zR0BOEcLADRKln4HYporH",
+      "name": "floor",
+      "type": "IfcSlab",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    },
+    {
+      "id": "1AQAupaRP1txwK1AGiN61V",
+      "name": "house - outer wall - house right front",
+      "type": "IfcWall",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    },
+    {
+      "id": "3wdauVJT5Fx9drrREiDqA$",
+      "name": "house - outer wall - house right back",
+      "type": "IfcWall",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    },
+    {
+      "id": "0OfZwWc8j9QP5uX8xPTxDH",
+      "name": "house - outer wall - house left",
+      "type": "IfcWall",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    },
+    {
+      "id": "3Fbgsvr8nAYfGs9y5keub0",
+      "name": "house - chimney",
+      "type": "IfcChimney",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    },
+    {
+      "id": "0Q5LjisRjDwhFSOc_WQjlF",
+      "name": "plumbing wall",
+      "type": "IfcWall",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    },
+    {
+      "id": "0xY$LvXaDEswJDk_VU74C_",
+      "name": "living room",
+      "type": "IfcSpace",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    },
+    {
+      "id": "2e9pghUJbBqR4jTInsONQT",
+      "name": "kitchen",
+      "type": "IfcFurniture",
+      "parent": "0xY$LvXaDEswJDk_VU74C_"
+    },
+    {
+      "id": "18QhMtUIXBvQktPHXXxs7H",
+      "name": "entry hall",
+      "type": "IfcSpace",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    }
+  ]
+}

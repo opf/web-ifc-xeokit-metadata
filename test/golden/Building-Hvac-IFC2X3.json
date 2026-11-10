@@ -1,0 +1,70 @@
+{
+  "id": "ifc silly sample scene - project",
+  "projectId": "2Ndyd$OSX7s9A04nc4lyye",
+  "author": "",
+  "createdAt": "2026-06-23T11:53:12",
+  "schema": "IFC2X3",
+  "creatingApplication": "BIM_Tools - Sketchup_IFC_manager - 5.6.0",
+  "metaObjects": [
+    {
+      "id": "2Ndyd$OSX7s9A04nc4lyye",
+      "name": "ifc silly sample scene - project",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "23sFQGRy90RxVbRHD9iSE2",
+      "name": "environment - site",
+      "type": "IfcSite",
+      "parent": "2Ndyd$OSX7s9A04nc4lyye"
+    },
+    {
+      "id": "2F44QMqSH3TOkM$SZoqCBe",
+      "name": "origin",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3Fit2Fad92zf2f6aWdJtF5",
+      "name": "geo-reference",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0c$N1CTon2BB2Sp89385G8",
+      "name": "Single-family house",
+      "type": "IfcBuilding",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1Ano2ZUxnEIvVQ_beukl8b",
+      "name": "00 groundfloor",
+      "type": "IfcBuildingStorey",
+      "parent": "0c$N1CTon2BB2Sp89385G8"
+    },
+    {
+      "id": "3Fbgsvr8nAYfGs9y5keub0",
+      "name": "house - chimney",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    },
+    {
+      "id": "23uPJWDfXEcwHH3kdFgV9c",
+      "name": "chimney cover",
+      "type": "IfcFlowTerminal",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    },
+    {
+      "id": "38WbwIGD90nB_3T2BTU5Ed",
+      "name": "building element",
+      "type": "IfcFlowSegment",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    },
+    {
+      "id": "34Y6EIt3nDCAS1k$kPGOKm",
+      "name": "house fireplace cap",
+      "type": "IfcFlowTerminal",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    }
+  ]
+}

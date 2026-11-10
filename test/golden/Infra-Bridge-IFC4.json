@@ -1,0 +1,478 @@
+{
+  "id": "ifc silly sample scene - project",
+  "projectId": "2Ndyd$OSX7s9A04nc4lyye",
+  "author": "",
+  "createdAt": "2026-06-23T11:53:46",
+  "schema": "IFC4",
+  "creatingApplication": "BIM_Tools - Sketchup_IFC_manager - 5.6.0",
+  "metaObjects": [
+    {
+      "id": "2Ndyd$OSX7s9A04nc4lyye",
+      "name": "ifc silly sample scene - project",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "23sFQGRy90RxVbRHD9iSE2",
+      "name": "environment - site",
+      "type": "IfcSite",
+      "parent": "2Ndyd$OSX7s9A04nc4lyye"
+    },
+    {
+      "id": "3Fit2Fad92zf2f6aWdJtF5",
+      "name": "geo-reference",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1adp27B_9CUfup2ojuKOng",
+      "name": "road parking - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3pnaj3EgL1cOScZHtoQhHO",
+      "name": "road river bridge - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "04kO$szQnDTAhzkZMdfItT",
+      "name": "road rail bridge - approach",
+      "type": "IfcElementAssembly",
+      "parent": "3pnaj3EgL1cOScZHtoQhHO"
+    },
+    {
+      "id": "2x$zQFzGD8YBtZ$7H7nm4c",
+      "name": "bridge road - abutment",
+      "type": "IfcElementAssembly",
+      "parent": "04kO$szQnDTAhzkZMdfItT"
+    },
+    {
+      "id": "322tROdCvE68UcU2Qe02GA",
+      "name": "road river bridge - abutment support beam",
+      "type": "IfcBeam",
+      "parent": "2x$zQFzGD8YBtZ$7H7nm4c"
+    },
+    {
+      "id": "0W_tPyzHXFtwl0O2DZZAe3",
+      "name": "bridge road - approach slab",
+      "type": "IfcSlab",
+      "parent": "04kO$szQnDTAhzkZMdfItT"
+    },
+    {
+      "id": "2LBqtx8tXFcR8Qzu5tSZdh",
+      "name": "road rail bridge - approach",
+      "type": "IfcElementAssembly",
+      "parent": "3pnaj3EgL1cOScZHtoQhHO"
+    },
+    {
+      "id": "2cU43jXGXEuv4mx7hSZu3S",
+      "name": "bridge road - abutment",
+      "type": "IfcElementAssembly",
+      "parent": "2LBqtx8tXFcR8Qzu5tSZdh"
+    },
+    {
+      "id": "1Rd3zGyxjCSBQhmMuxTFJ7",
+      "name": "road river bridge - abutment support beam",
+      "type": "IfcBeam",
+      "parent": "2cU43jXGXEuv4mx7hSZu3S"
+    },
+    {
+      "id": "01itnAmhP3LAz9aL2vu3YJ",
+      "name": "bridge road - approach slab",
+      "type": "IfcSlab",
+      "parent": "2LBqtx8tXFcR8Qzu5tSZdh"
+    },
+    {
+      "id": "2r51NsY5P0QvEz_Kok7DQt",
+      "name": "road rail bridge - deck",
+      "type": "IfcElementAssembly",
+      "parent": "3pnaj3EgL1cOScZHtoQhHO"
+    },
+    {
+      "id": "1PXj3pcJX7RgxexBEm0se9",
+      "name": "bridge road railing",
+      "type": "IfcRailing",
+      "parent": "2r51NsY5P0QvEz_Kok7DQt"
+    },
+    {
+      "id": "1lX0aCXHj46eYgtlXl_65e",
+      "name": "bridge road railing",
+      "type": "IfcRailing",
+      "parent": "2r51NsY5P0QvEz_Kok7DQt"
+    },
+    {
+      "id": "3ObOfBTNz2dhgWxUzdmDpl",
+      "name": "road river bridge - bridge deck",
+      "type": "IfcSlab",
+      "parent": "2r51NsY5P0QvEz_Kok7DQt"
+    },
+    {
+      "id": "2F86AY9Dn33gptJs5BIFJi",
+      "name": "road rail bridge - superstructure",
+      "type": "IfcElementAssembly",
+      "parent": "3pnaj3EgL1cOScZHtoQhHO"
+    },
+    {
+      "id": "1dmYPmycr2LPQju29cHK45",
+      "name": "road river bridge - main girder",
+      "type": "IfcBeam",
+      "parent": "2F86AY9Dn33gptJs5BIFJi"
+    },
+    {
+      "id": "0fDVrF0456nhTwgIrF5CPd",
+      "name": "road river bridge - main girder",
+      "type": "IfcBeam",
+      "parent": "2F86AY9Dn33gptJs5BIFJi"
+    },
+    {
+      "id": "2kSK2Jw$z3JQs2YiiWmHXV",
+      "name": "road river bridge - main girder",
+      "type": "IfcBeam",
+      "parent": "2F86AY9Dn33gptJs5BIFJi"
+    },
+    {
+      "id": "1KPYb5dSn3C9_LNpDoIOdf",
+      "name": "road river bridge - substructure",
+      "type": "IfcElementAssembly",
+      "parent": "3pnaj3EgL1cOScZHtoQhHO"
+    },
+    {
+      "id": "0kTVfaOTj2pAN_WvUgOEdD",
+      "name": "road river bridge - pier",
+      "type": "IfcElementAssembly",
+      "parent": "1KPYb5dSn3C9_LNpDoIOdf"
+    },
+    {
+      "id": "0Gl168Rv1ErxU_Zx$i1I5m",
+      "name": "road river bridge pierstem",
+      "type": "IfcColumn",
+      "parent": "0kTVfaOTj2pAN_WvUgOEdD"
+    },
+    {
+      "id": "1iUk9ABeL9eBJ7Sv9b$q0d",
+      "name": "foundation - bridge road",
+      "type": "IfcFooting",
+      "parent": "0kTVfaOTj2pAN_WvUgOEdD"
+    },
+    {
+      "id": "3hqwHdFaf66Oki_1cxKAnF",
+      "name": "bridge road - cross girder",
+      "type": "IfcBeam",
+      "parent": "0kTVfaOTj2pAN_WvUgOEdD"
+    },
+    {
+      "id": "0qDQIJzHH719PVQZWdQqW2",
+      "name": "road river bridge - pier",
+      "type": "IfcElementAssembly",
+      "parent": "1KPYb5dSn3C9_LNpDoIOdf"
+    },
+    {
+      "id": "3ul67tVf5Dl82Y_LatCAFo",
+      "name": "road river bridge pierstem",
+      "type": "IfcColumn",
+      "parent": "0qDQIJzHH719PVQZWdQqW2"
+    },
+    {
+      "id": "3kDaIrka18GwgJ2ayJZMBO",
+      "name": "foundation - bridge road",
+      "type": "IfcFooting",
+      "parent": "0qDQIJzHH719PVQZWdQqW2"
+    },
+    {
+      "id": "1glXn_b3PFhflp9CKhrvzD",
+      "name": "bridge road - cross girder",
+      "type": "IfcBeam",
+      "parent": "0qDQIJzHH719PVQZWdQqW2"
+    },
+    {
+      "id": "0vFQAzqYzD2P8vJwFIDXrV",
+      "name": "road river bridge - pier",
+      "type": "IfcElementAssembly",
+      "parent": "1KPYb5dSn3C9_LNpDoIOdf"
+    },
+    {
+      "id": "1BTWAuNPH8_BiqEs5C5kK5",
+      "name": "road river bridge pierstem",
+      "type": "IfcColumn",
+      "parent": "0vFQAzqYzD2P8vJwFIDXrV"
+    },
+    {
+      "id": "0NMvtFx717oPAWTAMXwXAy",
+      "name": "foundation - bridge road",
+      "type": "IfcFooting",
+      "parent": "0vFQAzqYzD2P8vJwFIDXrV"
+    },
+    {
+      "id": "0sH1yiI49B6w$h$tWL2i3T",
+      "name": "bridge road - cross girder",
+      "type": "IfcBeam",
+      "parent": "0vFQAzqYzD2P8vJwFIDXrV"
+    },
+    {
+      "id": "3vzNAxKB5AJA_Ehx4miINx",
+      "name": "road river bridge",
+      "type": "IfcBuilding",
+      "parent": "3pnaj3EgL1cOScZHtoQhHO"
+    },
+    {
+      "id": "2Wad9UE39Fl81buLr2dp_x",
+      "name": "rail river bridge - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1NcWEJCZP2QhD3Z7Ptly6p",
+      "name": "rail bridge - substructure",
+      "type": "IfcElementAssembly",
+      "parent": "2Wad9UE39Fl81buLr2dp_x"
+    },
+    {
+      "id": "2qHgQrSEbBmAN2Nh3C6_X0",
+      "name": "rail bridge - pier",
+      "type": "IfcElementAssembly",
+      "parent": "1NcWEJCZP2QhD3Z7Ptly6p"
+    },
+    {
+      "id": "13HNHx2iHDah6c_2Ir0QFv",
+      "name": "rail bridge - pierstem",
+      "type": "IfcColumn",
+      "parent": "2qHgQrSEbBmAN2Nh3C6_X0"
+    },
+    {
+      "id": "3QqyCHEVDF$gkEh307F1yY",
+      "name": "foundation - bridge rail",
+      "type": "IfcFooting",
+      "parent": "2qHgQrSEbBmAN2Nh3C6_X0"
+    },
+    {
+      "id": "2hJMDFMXH0q8k_DMRtOb0x",
+      "name": "rail bridge - pier",
+      "type": "IfcElementAssembly",
+      "parent": "1NcWEJCZP2QhD3Z7Ptly6p"
+    },
+    {
+      "id": "1Ov2FEORP589f6FJ7Vsjbf",
+      "name": "rail bridge - pierstem",
+      "type": "IfcColumn",
+      "parent": "2hJMDFMXH0q8k_DMRtOb0x"
+    },
+    {
+      "id": "3N1IPEdwr8ovT_ZOobkqBX",
+      "name": "foundation - bridge rail",
+      "type": "IfcFooting",
+      "parent": "2hJMDFMXH0q8k_DMRtOb0x"
+    },
+    {
+      "id": "0NGju11I55eP2T$y1Bu15n",
+      "name": "railbridge - superstructure",
+      "type": "IfcElementAssembly",
+      "parent": "2Wad9UE39Fl81buLr2dp_x"
+    },
+    {
+      "id": "064CKbgdv2$uFEsgE5j3ba",
+      "name": "rail bridge - spandrel wall",
+      "type": "IfcWall",
+      "parent": "0NGju11I55eP2T$y1Bu15n"
+    },
+    {
+      "id": "3f_1FIPqT5BhsBpy$X1b_A",
+      "name": "road rail bridge - name sign",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0NGju11I55eP2T$y1Bu15n"
+    },
+    {
+      "id": "3LTGJZ50P17x4My$lMjBSo",
+      "name": "rail bridge - spandrel wall",
+      "type": "IfcWall",
+      "parent": "0NGju11I55eP2T$y1Bu15n"
+    },
+    {
+      "id": "1U2g5rjcPDBw9NVxla024k",
+      "name": "road rail bridge - name sign",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0NGju11I55eP2T$y1Bu15n"
+    },
+    {
+      "id": "2YYLlceAvCKB$5luCgsyAd",
+      "name": "rail bridge - arch segment",
+      "type": "IfcMember",
+      "parent": "0NGju11I55eP2T$y1Bu15n"
+    },
+    {
+      "id": "3kuqbEQ55DwQX5rk3QQW6b",
+      "name": "rail bridge - arch segment",
+      "type": "IfcMember",
+      "parent": "0NGju11I55eP2T$y1Bu15n"
+    },
+    {
+      "id": "0mUNenrM54pwFfq2oXhCct",
+      "name": "rail bridge - arch segment",
+      "type": "IfcMember",
+      "parent": "0NGju11I55eP2T$y1Bu15n"
+    },
+    {
+      "id": "3dxS5_Bpz7vB8wbZiDy6FO",
+      "name": "rail bridge - arch segment",
+      "type": "IfcMember",
+      "parent": "0NGju11I55eP2T$y1Bu15n"
+    },
+    {
+      "id": "1Ni63N3g9CwwsFbbNgF65B",
+      "name": "rail bridge - filler",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0NGju11I55eP2T$y1Bu15n"
+    },
+    {
+      "id": "1ngF1j04v49eiBUKkKO16p",
+      "name": "rail bridge - filler",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0NGju11I55eP2T$y1Bu15n"
+    },
+    {
+      "id": "2kjWGt90HF_gBQxs$Lsfkw",
+      "name": "rail bridge",
+      "type": "IfcBuilding",
+      "parent": "2Wad9UE39Fl81buLr2dp_x"
+    },
+    {
+      "id": "1$CApj9YLCeu0YyH5TXRVh",
+      "name": "road rail bridge - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "16qYo484fEuvo5B_xQN5wZ",
+      "name": "rail bridge - substructure",
+      "type": "IfcElementAssembly",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "3UNm72MkH81wf0YgrOuk7D",
+      "name": "rail bridge - pier",
+      "type": "IfcElementAssembly",
+      "parent": "16qYo484fEuvo5B_xQN5wZ"
+    },
+    {
+      "id": "0XPURiAkzB3g2LT4CHIL$P",
+      "name": "rail bridge - pierstem",
+      "type": "IfcColumn",
+      "parent": "3UNm72MkH81wf0YgrOuk7D"
+    },
+    {
+      "id": "1TNwPNu5vAJ8rWCr2_eafm",
+      "name": "foundation - bridge rail",
+      "type": "IfcFooting",
+      "parent": "3UNm72MkH81wf0YgrOuk7D"
+    },
+    {
+      "id": "0ZqHhx84T54vsUjUWpHX1r",
+      "name": "rail bridge - pier",
+      "type": "IfcElementAssembly",
+      "parent": "16qYo484fEuvo5B_xQN5wZ"
+    },
+    {
+      "id": "0IBSrNevj23wueInn68pOs",
+      "name": "rail bridge - pierstem",
+      "type": "IfcColumn",
+      "parent": "0ZqHhx84T54vsUjUWpHX1r"
+    },
+    {
+      "id": "2Q4p8yWJzFIvhoX9T$V40D",
+      "name": "foundation - bridge rail",
+      "type": "IfcFooting",
+      "parent": "0ZqHhx84T54vsUjUWpHX1r"
+    },
+    {
+      "id": "1hMPjN1XP3D8IpowtvIj0R",
+      "name": "railbridge - superstructure",
+      "type": "IfcElementAssembly",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "2tKslGZJz0Nu12g9XAhM2h",
+      "name": "rail bridge - spandrel wall",
+      "type": "IfcWall",
+      "parent": "1hMPjN1XP3D8IpowtvIj0R"
+    },
+    {
+      "id": "1vfzhsgDT9APjV5mX_JX5Y",
+      "name": "road rail bridge - name sign",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1hMPjN1XP3D8IpowtvIj0R"
+    },
+    {
+      "id": "06ymNwhgjC9vHrcokNIGHx",
+      "name": "rail bridge - spandrel wall",
+      "type": "IfcWall",
+      "parent": "1hMPjN1XP3D8IpowtvIj0R"
+    },
+    {
+      "id": "12d16mgwj97OPhxybgoR0P",
+      "name": "road rail bridge - name sign",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1hMPjN1XP3D8IpowtvIj0R"
+    },
+    {
+      "id": "3Py7bxE7n5JOxOxHlYh2N3",
+      "name": "rail bridge - arch segment",
+      "type": "IfcMember",
+      "parent": "1hMPjN1XP3D8IpowtvIj0R"
+    },
+    {
+      "id": "1hByR6f1zEWg0gFVCzqiAV",
+      "name": "rail bridge - arch segment",
+      "type": "IfcMember",
+      "parent": "1hMPjN1XP3D8IpowtvIj0R"
+    },
+    {
+      "id": "0LwIg3tPb1axicmL$uibFc",
+      "name": "rail bridge - arch segment",
+      "type": "IfcMember",
+      "parent": "1hMPjN1XP3D8IpowtvIj0R"
+    },
+    {
+      "id": "14s9MtA2T3DOZ3vc6xj1mL",
+      "name": "rail bridge - arch segment",
+      "type": "IfcMember",
+      "parent": "1hMPjN1XP3D8IpowtvIj0R"
+    },
+    {
+      "id": "2vnqnmqXH4Q9vBMUebOywv",
+      "name": "rail bridge - filler",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1hMPjN1XP3D8IpowtvIj0R"
+    },
+    {
+      "id": "2ZYxBDA4bC$vk_U2Y8GUqS",
+      "name": "rail bridge - filler",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1hMPjN1XP3D8IpowtvIj0R"
+    },
+    {
+      "id": "00ZvlN19v73wE8JOyDmPjG",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "3E8poO$Er6gPhLg44LF$bc",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "3JNhAW3zLAmRKwMCykb3V5",
+      "name": "rail bridge",
+      "type": "IfcBuilding",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "2syxA9_lr7Ew2uZai3VhhS",
+      "name": "road - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    }
+  ]
+}

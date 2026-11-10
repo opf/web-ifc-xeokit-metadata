@@ -1,0 +1,538 @@
+{
+  "id": "ifc silly sample scene - project",
+  "projectId": "2Ndyd$OSX7s9A04nc4lyye",
+  "author": "",
+  "createdAt": "2026-06-23T11:53:15",
+  "schema": "IFC2X3",
+  "creatingApplication": "BIM_Tools - Sketchup_IFC_manager - 5.6.0",
+  "metaObjects": [
+    {
+      "id": "2Ndyd$OSX7s9A04nc4lyye",
+      "name": "ifc silly sample scene - project",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "23sFQGRy90RxVbRHD9iSE2",
+      "name": "environment - site",
+      "type": "IfcSite",
+      "parent": "2Ndyd$OSX7s9A04nc4lyye"
+    },
+    {
+      "id": "13nXdzaiLCcBMI_327t3$B",
+      "name": "road parking - road segment",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2X7Dlo9gX5dgM3FX0gYZXP",
+      "name": "road - parking",
+      "type": "IfcElementAssembly",
+      "parent": "13nXdzaiLCcBMI_327t3$B"
+    },
+    {
+      "id": "37h0T9Qob7Mw1PFsR1kVP7",
+      "name": "asphalt binder course - road - parking",
+      "type": "IfcSlab",
+      "parent": "2X7Dlo9gX5dgM3FX0gYZXP"
+    },
+    {
+      "id": "2Z1Tk3YUj4bfBY5kB$H6XD",
+      "name": "road - parking - asphalt surface course",
+      "type": "IfcSlab",
+      "parent": "2X7Dlo9gX5dgM3FX0gYZXP"
+    },
+    {
+      "id": "0v1ddg6Y12hvvQhtW6MY3h",
+      "name": "road - parking - subgrade",
+      "type": "IfcSlab",
+      "parent": "2X7Dlo9gX5dgM3FX0gYZXP"
+    },
+    {
+      "id": "21looXrNb6n9dVVqZ0afH3",
+      "name": "road parking - base course",
+      "type": "IfcSlab",
+      "parent": "2X7Dlo9gX5dgM3FX0gYZXP"
+    },
+    {
+      "id": "1rSMOsFHPCxBpVA$FlasQt",
+      "name": "road parking - shoulder",
+      "type": "IfcElementAssembly",
+      "parent": "13nXdzaiLCcBMI_327t3$B"
+    },
+    {
+      "id": "3hvQKS_3f35hrc93TD89Cw",
+      "name": "road - shoulder",
+      "type": "IfcElementAssembly",
+      "parent": "13nXdzaiLCcBMI_327t3$B"
+    },
+    {
+      "id": "0_Qwe45Iz4axmHTXYPvOsp",
+      "name": "road  - carriageway",
+      "type": "IfcElementAssembly",
+      "parent": "13nXdzaiLCcBMI_327t3$B"
+    },
+    {
+      "id": "1UiPSFcDjErxwCT65xLh1S",
+      "name": "road - asphalt binder course",
+      "type": "IfcSlab",
+      "parent": "0_Qwe45Iz4axmHTXYPvOsp"
+    },
+    {
+      "id": "0bOiufAU17JvMAqTkdbCGK",
+      "name": "road - asphalt surface course",
+      "type": "IfcSlab",
+      "parent": "0_Qwe45Iz4axmHTXYPvOsp"
+    },
+    {
+      "id": "25_RTYQg9CWPpSeXsVQXRz",
+      "name": "road - subgrade",
+      "type": "IfcSlab",
+      "parent": "0_Qwe45Iz4axmHTXYPvOsp"
+    },
+    {
+      "id": "1zA0UQopr71wWPFRVqk8vb",
+      "name": "road - base course",
+      "type": "IfcSlab",
+      "parent": "0_Qwe45Iz4axmHTXYPvOsp"
+    },
+    {
+      "id": "3UW01eWGf3R9Qahji8i4XE",
+      "name": "road parking - road segment",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3Rtyfer6f14gfdIYhSAJfS",
+      "name": "road - parking",
+      "type": "IfcElementAssembly",
+      "parent": "3UW01eWGf3R9Qahji8i4XE"
+    },
+    {
+      "id": "3n9r1K2N1DBRveA6CMqp_q",
+      "name": "asphalt binder course - road - parking",
+      "type": "IfcSlab",
+      "parent": "3Rtyfer6f14gfdIYhSAJfS"
+    },
+    {
+      "id": "122iIwdi92Nu19w41eQ8OO",
+      "name": "road - parking - asphalt surface course",
+      "type": "IfcSlab",
+      "parent": "3Rtyfer6f14gfdIYhSAJfS"
+    },
+    {
+      "id": "3IUYm3Tt58BvzwcxEk6ARA",
+      "name": "road - parking - subgrade",
+      "type": "IfcSlab",
+      "parent": "3Rtyfer6f14gfdIYhSAJfS"
+    },
+    {
+      "id": "3XzlKA5bz0efC2no0GJY02",
+      "name": "road parking - base course",
+      "type": "IfcSlab",
+      "parent": "3Rtyfer6f14gfdIYhSAJfS"
+    },
+    {
+      "id": "15Sq9FrzT9FBv27nCk5mh_",
+      "name": "road parking - shoulder",
+      "type": "IfcElementAssembly",
+      "parent": "3UW01eWGf3R9Qahji8i4XE"
+    },
+    {
+      "id": "2271FKNO1DdwPAfaVP8xJd",
+      "name": "road - shoulder",
+      "type": "IfcElementAssembly",
+      "parent": "3UW01eWGf3R9Qahji8i4XE"
+    },
+    {
+      "id": "2FFDMtF_bFt9Cn7VXimDUu",
+      "name": "road  - carriageway",
+      "type": "IfcElementAssembly",
+      "parent": "3UW01eWGf3R9Qahji8i4XE"
+    },
+    {
+      "id": "1EBv$nhkP16QpDbPgakj0R",
+      "name": "road - asphalt binder course",
+      "type": "IfcSlab",
+      "parent": "2FFDMtF_bFt9Cn7VXimDUu"
+    },
+    {
+      "id": "29INDGxC98WgiF2$uaWE$G",
+      "name": "road - asphalt surface course",
+      "type": "IfcSlab",
+      "parent": "2FFDMtF_bFt9Cn7VXimDUu"
+    },
+    {
+      "id": "3l2i$KGMz4I87INjjdXvqG",
+      "name": "road - subgrade",
+      "type": "IfcSlab",
+      "parent": "2FFDMtF_bFt9Cn7VXimDUu"
+    },
+    {
+      "id": "23fuLywRn2yQjhdXt_DTEx",
+      "name": "road - base course",
+      "type": "IfcSlab",
+      "parent": "2FFDMtF_bFt9Cn7VXimDUu"
+    },
+    {
+      "id": "3gVUlQBybBTR_jtpA_c89f",
+      "name": "bridge - road segment",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2osHTl91z1WeqT0dDvg3WD",
+      "name": "road - shoulder",
+      "type": "IfcElementAssembly",
+      "parent": "3gVUlQBybBTR_jtpA_c89f"
+    },
+    {
+      "id": "1LsZ9dUZn5397IxXcrlrIe",
+      "name": "road - shoulder",
+      "type": "IfcElementAssembly",
+      "parent": "3gVUlQBybBTR_jtpA_c89f"
+    },
+    {
+      "id": "3JCNkEnxX2HAIohFE8d0li",
+      "name": "road carriageway - bridge road",
+      "type": "IfcElementAssembly",
+      "parent": "3gVUlQBybBTR_jtpA_c89f"
+    },
+    {
+      "id": "3nUgJwuKjBSgKNVqnDReQ_",
+      "name": "road base course - bridge road",
+      "type": "IfcSlab",
+      "parent": "3JCNkEnxX2HAIohFE8d0li"
+    },
+    {
+      "id": "2B7GjowjDAyvkWvj3mcysp",
+      "name": "bridge road - road asphalt binder course",
+      "type": "IfcSlab",
+      "parent": "3JCNkEnxX2HAIohFE8d0li"
+    },
+    {
+      "id": "24yB027vXAnwvB5wEFTdUW",
+      "name": "road subgrade - bridge road",
+      "type": "IfcSlab",
+      "parent": "3JCNkEnxX2HAIohFE8d0li"
+    },
+    {
+      "id": "0GfyK6YKbBBOLGVolBxAx4",
+      "name": "road asphalt surface course - bridge road",
+      "type": "IfcSlab",
+      "parent": "3JCNkEnxX2HAIohFE8d0li"
+    },
+    {
+      "id": "1gawLKQN1FlOdzrZDos6Gg",
+      "name": "bridge - road segment",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2$CI2UZ2nC6udOwWqZWr6C",
+      "name": "road - shoulder",
+      "type": "IfcElementAssembly",
+      "parent": "1gawLKQN1FlOdzrZDos6Gg"
+    },
+    {
+      "id": "2PKdE1kbL8ke7QxRRzxN_q",
+      "name": "road - shoulder",
+      "type": "IfcElementAssembly",
+      "parent": "1gawLKQN1FlOdzrZDos6Gg"
+    },
+    {
+      "id": "0UKHUh06v69wKcoKjB04ik",
+      "name": "road carriageway - bridge road",
+      "type": "IfcElementAssembly",
+      "parent": "1gawLKQN1FlOdzrZDos6Gg"
+    },
+    {
+      "id": "2gurTQSkD1_htHRFmtcbL_",
+      "name": "road base course - bridge road",
+      "type": "IfcSlab",
+      "parent": "0UKHUh06v69wKcoKjB04ik"
+    },
+    {
+      "id": "2CFlp691nEVAN$xmwmq4NQ",
+      "name": "bridge road - road asphalt binder course",
+      "type": "IfcSlab",
+      "parent": "0UKHUh06v69wKcoKjB04ik"
+    },
+    {
+      "id": "2Lcv7v7Y9CDgeVSxtOixa_",
+      "name": "road subgrade - bridge road",
+      "type": "IfcSlab",
+      "parent": "0UKHUh06v69wKcoKjB04ik"
+    },
+    {
+      "id": "3PGg5TW8D94u9cNHoKU9ai",
+      "name": "road asphalt surface course - bridge road",
+      "type": "IfcSlab",
+      "parent": "0UKHUh06v69wKcoKjB04ik"
+    },
+    {
+      "id": "00ZvlN19v73wE8JOyDmPjG",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3E8poO$Er6gPhLg44LF$bc",
+      "name": "highway location marker",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1qeMYKRz11NfwG9VheT8FH",
+      "name": "road segment",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3oc$qAY_95VA0MUuoAYGxh",
+      "name": "road carriageway",
+      "type": "IfcElementAssembly",
+      "parent": "1qeMYKRz11NfwG9VheT8FH"
+    },
+    {
+      "id": "0WFaAjgxT8whuM_s0GDVop",
+      "name": "road - asphalt binder course",
+      "type": "IfcSlab",
+      "parent": "3oc$qAY_95VA0MUuoAYGxh"
+    },
+    {
+      "id": "2perTo5I50_QVZloPyhq8F",
+      "name": "road - asphalt surface course",
+      "type": "IfcSlab",
+      "parent": "3oc$qAY_95VA0MUuoAYGxh"
+    },
+    {
+      "id": "1URig8FeLBeR9AdMrx_PFb",
+      "name": "road - subgrade",
+      "type": "IfcSlab",
+      "parent": "3oc$qAY_95VA0MUuoAYGxh"
+    },
+    {
+      "id": "34susoRVr6zwuxR_H7WjJP",
+      "name": "road - base course",
+      "type": "IfcSlab",
+      "parent": "3oc$qAY_95VA0MUuoAYGxh"
+    },
+    {
+      "id": "2bgbuMDuj3hg9k0pkgUphW",
+      "name": "road - shoulder",
+      "type": "IfcElementAssembly",
+      "parent": "1qeMYKRz11NfwG9VheT8FH"
+    },
+    {
+      "id": "17coQp2iL5FhBqt0CY_3TM",
+      "name": "road - shoulder",
+      "type": "IfcElementAssembly",
+      "parent": "1qeMYKRz11NfwG9VheT8FH"
+    },
+    {
+      "id": "3Fit2Fad92zf2f6aWdJtF5",
+      "name": "geo-reference",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2pS6pdNUf5JhK0$Ap6Vb7C",
+      "name": "road segment",
+      "type": "IfcElementAssembly",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2v_vgJ52rCdOoY4xv9BEGs",
+      "name": "road carriageway",
+      "type": "IfcElementAssembly",
+      "parent": "2pS6pdNUf5JhK0$Ap6Vb7C"
+    },
+    {
+      "id": "1hIucSGDb5YfQIf0E4zTy_",
+      "name": "road - asphalt binder course",
+      "type": "IfcSlab",
+      "parent": "2v_vgJ52rCdOoY4xv9BEGs"
+    },
+    {
+      "id": "2Hv0cNhjPCV8n4VnOiLlhy",
+      "name": "road - asphalt surface course",
+      "type": "IfcSlab",
+      "parent": "2v_vgJ52rCdOoY4xv9BEGs"
+    },
+    {
+      "id": "1IhMwsHkj23Pk9puusHUBF",
+      "name": "road - subgrade",
+      "type": "IfcSlab",
+      "parent": "2v_vgJ52rCdOoY4xv9BEGs"
+    },
+    {
+      "id": "0JHBQuEiP0nvPYpJMf4bmS",
+      "name": "road - base course",
+      "type": "IfcSlab",
+      "parent": "2v_vgJ52rCdOoY4xv9BEGs"
+    },
+    {
+      "id": "0YqCWlEOfFLOP9cWpIfWnw",
+      "name": "road - shoulder",
+      "type": "IfcElementAssembly",
+      "parent": "2pS6pdNUf5JhK0$Ap6Vb7C"
+    },
+    {
+      "id": "2Jmv7aVW59tgvJy3nmB5rm",
+      "name": "road - shoulder",
+      "type": "IfcElementAssembly",
+      "parent": "2pS6pdNUf5JhK0$Ap6Vb7C"
+    },
+    {
+      "id": "2MBfH6RyP3luv6spdwrCIJ",
+      "name": "road parking - road",
+      "type": "IfcBuilding",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2E09k8p5j8Ie2cdShEa6y3",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "2MBfH6RyP3luv6spdwrCIJ"
+    },
+    {
+      "id": "3oFdaVamzCehZnvL2DVyTv",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "2MBfH6RyP3luv6spdwrCIJ"
+    },
+    {
+      "id": "22Oy65k6H6RQzyRYDT5O81",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "2MBfH6RyP3luv6spdwrCIJ"
+    },
+    {
+      "id": "3nP$zLBVH1Yxs64yX$MtCU",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "2MBfH6RyP3luv6spdwrCIJ"
+    },
+    {
+      "id": "3iK_B7RQX1A90d2SZn3haF",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "2MBfH6RyP3luv6spdwrCIJ"
+    },
+    {
+      "id": "2k035JfqPANO_5sd1VjpMr",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "2MBfH6RyP3luv6spdwrCIJ"
+    },
+    {
+      "id": "2xFNEEiVXAoQ17T8KWBbr6",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "2MBfH6RyP3luv6spdwrCIJ"
+    },
+    {
+      "id": "3PBVDB_Gv65fD5rAR8Y2j0",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "2MBfH6RyP3luv6spdwrCIJ"
+    },
+    {
+      "id": "2ayNnO1Fn0kRTcnBmZ4Sgd",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "2MBfH6RyP3luv6spdwrCIJ"
+    },
+    {
+      "id": "1PLaDnWNP2WPtJ6K0kxgur",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "2MBfH6RyP3luv6spdwrCIJ"
+    },
+    {
+      "id": "1ycqplGh55EAGDAsiDHPxX",
+      "name": "bridge road connection",
+      "type": "IfcBuilding",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1Engm$GMHEoAv0uoo9qvMb",
+      "name": "bridge road connection",
+      "type": "IfcBuilding",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1Gy5o1F_T6VxmwxJ5$xsRE",
+      "name": "road",
+      "type": "IfcBuilding",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2XfFRWwzD9qfMHjBFXzIXm",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "1Gy5o1F_T6VxmwxJ5$xsRE"
+    },
+    {
+      "id": "3kgqjUM35B4wJgRMa9qRTs",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "1Gy5o1F_T6VxmwxJ5$xsRE"
+    },
+    {
+      "id": "3YeZLOBOrEnv261fug3ZyX",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "1Gy5o1F_T6VxmwxJ5$xsRE"
+    },
+    {
+      "id": "1iXLtViPXCCwrYVlnB19Ks",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "1Gy5o1F_T6VxmwxJ5$xsRE"
+    },
+    {
+      "id": "2VDStrHxP5_9fajgO5lJMP",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "1Gy5o1F_T6VxmwxJ5$xsRE"
+    },
+    {
+      "id": "1AfgOmh7nDOedEyHKWgbIw",
+      "name": "road",
+      "type": "IfcBuilding",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3736_hvIzFCRBgB1NzaIAG",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "1AfgOmh7nDOedEyHKWgbIw"
+    },
+    {
+      "id": "1HY$KHGVb0Y9iLwHsRZfqX",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "1AfgOmh7nDOedEyHKWgbIw"
+    },
+    {
+      "id": "3SstlkwwP25gbEsTjECubM",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "1AfgOmh7nDOedEyHKWgbIw"
+    },
+    {
+      "id": "0foyckKPj2OwIIYCa8mzqS",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "1AfgOmh7nDOedEyHKWgbIw"
+    },
+    {
+      "id": "1Fxh8JXAj0VPU5VkvOYvkk",
+      "name": "road - line marking",
+      "type": "IfcAnnotation",
+      "parent": "1AfgOmh7nDOedEyHKWgbIw"
+    }
+  ]
+}

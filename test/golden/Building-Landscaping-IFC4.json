@@ -1,0 +1,64 @@
+{
+  "id": "ifc silly sample scene - project",
+  "projectId": "2Ndyd$OSX7s9A04nc4lyye",
+  "author": "",
+  "createdAt": "2026-06-23T11:53:44",
+  "schema": "IFC4",
+  "creatingApplication": "BIM_Tools - Sketchup_IFC_manager - 5.6.0",
+  "metaObjects": [
+    {
+      "id": "2Ndyd$OSX7s9A04nc4lyye",
+      "name": "ifc silly sample scene - project",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "23sFQGRy90RxVbRHD9iSE2",
+      "name": "environment - site",
+      "type": "IfcSite",
+      "parent": "2Ndyd$OSX7s9A04nc4lyye"
+    },
+    {
+      "id": "3Fit2Fad92zf2f6aWdJtF5",
+      "name": "geo-reference",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1Pbuu0tu59NfhrTsztVBK1",
+      "name": "house - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3rjfgVlxX47xval0xizSlT",
+      "name": "house - site - grass",
+      "type": "IfcGeographicElement",
+      "parent": "1Pbuu0tu59NfhrTsztVBK1"
+    },
+    {
+      "id": "1tnCBP2MXBYgVII_I4SNlD",
+      "name": "house - site - soil",
+      "type": "IfcGeographicElement",
+      "parent": "1Pbuu0tu59NfhrTsztVBK1"
+    },
+    {
+      "id": "2pVtmJZNb8zwPoLLLgilXw",
+      "name": "house - site - underground",
+      "type": "IfcGeographicElement",
+      "parent": "1Pbuu0tu59NfhrTsztVBK1"
+    },
+    {
+      "id": "2F44QMqSH3TOkM$SZoqCBe",
+      "name": "origin",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Pbuu0tu59NfhrTsztVBK1"
+    },
+    {
+      "id": "1WmdB5bVH4mA3V1Q4ibvf1",
+      "name": "tree",
+      "type": "IfcGeographicElement",
+      "parent": "1Pbuu0tu59NfhrTsztVBK1"
+    }
+  ]
+}

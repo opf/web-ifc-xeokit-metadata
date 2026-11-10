@@ -1,0 +1,136 @@
+{
+  "id": "ifc silly sample scene - project",
+  "projectId": "2Ndyd$OSX7s9A04nc4lyye",
+  "author": "",
+  "createdAt": "2026-06-23T11:53:46",
+  "schema": "IFC4",
+  "creatingApplication": "BIM_Tools - Sketchup_IFC_manager - 5.6.0",
+  "metaObjects": [
+    {
+      "id": "2Ndyd$OSX7s9A04nc4lyye",
+      "name": "ifc silly sample scene - project",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "23sFQGRy90RxVbRHD9iSE2",
+      "name": "environment - site",
+      "type": "IfcSite",
+      "parent": "2Ndyd$OSX7s9A04nc4lyye"
+    },
+    {
+      "id": "3Fit2Fad92zf2f6aWdJtF5",
+      "name": "geo-reference",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1adp27B_9CUfup2ojuKOng",
+      "name": "road parking - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1GaVcIsyX8KQaO4LJdzdkb",
+      "name": "charging station",
+      "type": "IfcElectricAppliance",
+      "parent": "1adp27B_9CUfup2ojuKOng"
+    },
+    {
+      "id": "0C9Hvxz_j4_Qqb0p8VQwES",
+      "name": "charging station - foundation block",
+      "type": "IfcFooting",
+      "parent": "1adp27B_9CUfup2ojuKOng"
+    },
+    {
+      "id": "2FPWXy1W9F3eDPKqwaypBb",
+      "name": "charging station - gap filler grout",
+      "type": "IfcDiscreteAccessory",
+      "parent": "1adp27B_9CUfup2ojuKOng"
+    },
+    {
+      "id": "2MBfH6RyP3luv6spdwrCIJ",
+      "name": "road parking - road",
+      "type": "IfcBuilding",
+      "parent": "1adp27B_9CUfup2ojuKOng"
+    },
+    {
+      "id": "3pnaj3EgL1cOScZHtoQhHO",
+      "name": "road river bridge - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0dEBwmfnvBq9OyNfYNowGR",
+      "name": "sewer manhole",
+      "type": "IfcDistributionChamberElement",
+      "parent": "3pnaj3EgL1cOScZHtoQhHO"
+    },
+    {
+      "id": "0xp5S6qvHAWPQZNi_oyNRF",
+      "name": "sewer manhole",
+      "type": "IfcDistributionChamberElement",
+      "parent": "3pnaj3EgL1cOScZHtoQhHO"
+    },
+    {
+      "id": "1ycqplGh55EAGDAsiDHPxX",
+      "name": "bridge road connection",
+      "type": "IfcBuilding",
+      "parent": "3pnaj3EgL1cOScZHtoQhHO"
+    },
+    {
+      "id": "3vzNAxKB5AJA_Ehx4miINx",
+      "name": "road river bridge",
+      "type": "IfcBuilding",
+      "parent": "3pnaj3EgL1cOScZHtoQhHO"
+    },
+    {
+      "id": "1Engm$GMHEoAv0uoo9qvMb",
+      "name": "bridge road connection",
+      "type": "IfcBuilding",
+      "parent": "3pnaj3EgL1cOScZHtoQhHO"
+    },
+    {
+      "id": "2Wad9UE39Fl81buLr2dp_x",
+      "name": "rail river bridge - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "2kjWGt90HF_gBQxs$Lsfkw",
+      "name": "rail bridge",
+      "type": "IfcBuilding",
+      "parent": "2Wad9UE39Fl81buLr2dp_x"
+    },
+    {
+      "id": "1$CApj9YLCeu0YyH5TXRVh",
+      "name": "road rail bridge - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3JNhAW3zLAmRKwMCykb3V5",
+      "name": "rail bridge",
+      "type": "IfcBuilding",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "1Gy5o1F_T6VxmwxJ5$xsRE",
+      "name": "road",
+      "type": "IfcBuilding",
+      "parent": "1$CApj9YLCeu0YyH5TXRVh"
+    },
+    {
+      "id": "2syxA9_lr7Ew2uZai3VhhS",
+      "name": "road - site",
+      "type": "IfcSite",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1AfgOmh7nDOedEyHKWgbIw",
+      "name": "road",
+      "type": "IfcBuilding",
+      "parent": "2syxA9_lr7Ew2uZai3VhhS"
+    }
+  ]
+}

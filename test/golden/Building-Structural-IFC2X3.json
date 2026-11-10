@@ -1,0 +1,136 @@
+{
+  "id": "ifc silly sample scene - project",
+  "projectId": "2Ndyd$OSX7s9A04nc4lyye",
+  "author": "",
+  "createdAt": "2026-06-23T11:53:12",
+  "schema": "IFC2X3",
+  "creatingApplication": "BIM_Tools - Sketchup_IFC_manager - 5.6.0",
+  "metaObjects": [
+    {
+      "id": "2Ndyd$OSX7s9A04nc4lyye",
+      "name": "ifc silly sample scene - project",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "23sFQGRy90RxVbRHD9iSE2",
+      "name": "environment - site",
+      "type": "IfcSite",
+      "parent": "2Ndyd$OSX7s9A04nc4lyye"
+    },
+    {
+      "id": "2iPwJwpPDCSgMheXwk9cBT",
+      "name": "house - roof",
+      "type": "IfcRoof",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0fqX614OH1YO1Njdxms2$Q",
+      "name": "girder",
+      "type": "IfcBeam",
+      "parent": "2iPwJwpPDCSgMheXwk9cBT"
+    },
+    {
+      "id": "0rh7bRO0L9fg1NzgGKU$Ut",
+      "name": "girder",
+      "type": "IfcBeam",
+      "parent": "2iPwJwpPDCSgMheXwk9cBT"
+    },
+    {
+      "id": "3roxUKbVv98xiUcl22_T07",
+      "name": "girder",
+      "type": "IfcBeam",
+      "parent": "2iPwJwpPDCSgMheXwk9cBT"
+    },
+    {
+      "id": "0Lvk$Qa81D5et3l3a4S9Vk",
+      "name": "girder",
+      "type": "IfcBeam",
+      "parent": "2iPwJwpPDCSgMheXwk9cBT"
+    },
+    {
+      "id": "2ddLgAnQf4mBfh5IpUp54U",
+      "name": "girder",
+      "type": "IfcBeam",
+      "parent": "2iPwJwpPDCSgMheXwk9cBT"
+    },
+    {
+      "id": "2fjJuPht9EIQaZQYZfC1Op",
+      "name": "girder",
+      "type": "IfcBeam",
+      "parent": "2iPwJwpPDCSgMheXwk9cBT"
+    },
+    {
+      "id": "38dURdIk57HPT_EckeLnt6",
+      "name": "beam shoe",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2iPwJwpPDCSgMheXwk9cBT"
+    },
+    {
+      "id": "0kNW_gyKT7mgsI4WnaPU0I",
+      "name": "beam shoe",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2iPwJwpPDCSgMheXwk9cBT"
+    },
+    {
+      "id": "2F44QMqSH3TOkM$SZoqCBe",
+      "name": "origin",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "3Fit2Fad92zf2f6aWdJtF5",
+      "name": "geo-reference",
+      "type": "IfcBuildingElementProxy",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "0c$N1CTon2BB2Sp89385G8",
+      "name": "Single-family house",
+      "type": "IfcBuilding",
+      "parent": "23sFQGRy90RxVbRHD9iSE2"
+    },
+    {
+      "id": "1Ano2ZUxnEIvVQ_beukl8b",
+      "name": "00 groundfloor",
+      "type": "IfcBuildingStorey",
+      "parent": "0c$N1CTon2BB2Sp89385G8"
+    },
+    {
+      "id": "0pFmhV8oD1dB40_b4pscr8",
+      "name": "house - foundation",
+      "type": "IfcFooting",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    },
+    {
+      "id": "0DyViLJJ175RvWQi1rE7a6",
+      "name": "house - outer wall - house back",
+      "type": "IfcWall",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    },
+    {
+      "id": "3SGBcf7Lv0r80vKtUCgOpf",
+      "name": "house - outer wall - house front",
+      "type": "IfcWall",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    },
+    {
+      "id": "3oNJ9yHi5FJuFnK8yg68Yt",
+      "name": "house - outer wall - house front right",
+      "type": "IfcWall",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    },
+    {
+      "id": "3Fbgsvr8nAYfGs9y5keub0",
+      "name": "house - chimney",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    },
+    {
+      "id": "37GxndZsXCwBzM0QrdRDLo",
+      "name": "house - inner wall",
+      "type": "IfcWall",
+      "parent": "1Ano2ZUxnEIvVQ_beukl8b"
+    }
+  ]
+}
