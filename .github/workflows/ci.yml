@@ -9,7 +9,8 @@ permissions: {}
 
 jobs:
   test:
-    runs-on: ubuntu-latest
+    runs-on:
+      labels: "runs-on=${{ github.run_id }}/image=ubuntu24-full-x64"
     permissions:
       contents: read
     steps:

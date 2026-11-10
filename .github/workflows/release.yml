@@ -13,7 +13,8 @@ concurrency:
 jobs:
   select-mode:
     if: ${{ github.repository == 'opf/web-ifc-xeokit-metadata' }}
-    runs-on: ubuntu-latest
+    runs-on:
+      labels: "runs-on=${{ github.run_id }}/image=ubuntu24-full-x64"
     outputs:
       mode: ${{ steps.select-mode.outputs.mode }}
       publish-plan-artifact-id: ${{ steps.select-mode.outputs.publish-plan-artifact-id }}
@@ -35,7 +36,8 @@ jobs:
   version:
     if: needs.select-mode.outputs.mode == 'version'
     needs: select-mode
-    runs-on: ubuntu-latest
+    runs-on:
+      labels: "runs-on=${{ github.run_id }}/image=ubuntu24-full-x64"
     permissions:
       contents: read
     steps:
@@ -55,7 +57,8 @@ jobs:
   pack:
     if: needs.select-mode.outputs.mode == 'publish'
     needs: select-mode
-    runs-on: ubuntu-latest
+    runs-on:
+      labels: "runs-on=${{ github.run_id }}/image=ubuntu24-full-x64"
     outputs:
       pack-dir-artifact-id: ${{ steps.pack.outputs.pack-dir-artifact-id }}
     permissions:
