@@ -3,7 +3,7 @@
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
-// You may obtain a copy of the License in the LICENSE file in this directory
+// You may obtain a copy of the License in the LICENSE file at the package root
 // or at
 //
 //     http://www.apache.org/licenses/LICENSE-2.0
@@ -21,16 +21,14 @@
 
 import * as WebIFC from "web-ifc";
 import { readFile } from "node:fs/promises";
-import { fileURLToPath } from "node:url";
-import { dirname, resolve } from "node:path";
+import { createRequire } from "node:module";
+import { dirname } from "node:path";
 import type { MetaModel, MetaObject } from "./types.js";
-
-const __dirname = dirname(fileURLToPath(import.meta.url));
 
 // web-ifc ships its .wasm files alongside its compiled JS. Point the runtime
 // at that directory; the trailing "/" is load-bearing, the loader concatenates
 // `prefix + filename` without inserting a separator.
-const WASM_DIR = resolve(__dirname, "../node_modules/web-ifc") + "/";
+const WASM_DIR = dirname(createRequire(import.meta.url).resolve("web-ifc")) + "/";
 
 interface Handle { value: number; type: number }
 interface Argument<T> { value: T; type: number; name?: string }

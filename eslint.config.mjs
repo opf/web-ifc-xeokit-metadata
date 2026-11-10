@@ -6,7 +6,7 @@ import { defineConfig } from "eslint/config";
 import stylistic from "@stylistic/eslint-plugin";
 
 export default defineConfig([
-  { ignores: ["node_modules/**", "package-lock.json", "test/golden/**"] },
+  { ignores: ["node_modules/**", "dist/**", "package-lock.json", "test/golden/**"] },
   tseslint.configs.recommended,
   {
     files: ["**/*.{js,mjs,cjs,ts,mts,cts}"],

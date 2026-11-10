@@ -3,7 +3,7 @@
 A small CLI that extracts the spatial hierarchy of an IFC file as
 xeokit-sdk-compatible metadata JSON.
 
-It is the in-monorepo successor to the .NET-based
+It replaces the .NET-based
 [`opf/xeokit-metadata`](https://github.com/opf/xeokit-metadata) (a fork of
 [`bimspot/xeokit-metadata`](https://github.com/bimspot/xeokit-metadata)).
 Built on [`web-ifc`](https://github.com/ThatOpen/engine_web-ifc), which:
@@ -15,12 +15,14 @@ Built on [`web-ifc`](https://github.com/ThatOpen/engine_web-ifc), which:
 ## Usage
 
 ```bash
+npm install -g @openproject/web-ifc-xeokit-metadata
 web-ifc-xeokit-metadata path/to/model.ifc path/to/model.json
 ```
 
 The output JSON matches the schema produced by the previous .NET tool and is
-consumed by `gltf2xkt` in the BIM conversion pipeline (see
-`modules/bim/app/services/bim/ifc_models/view_converter_service.rb`).
+consumed by `gltf2xkt` in the OpenProject BIM conversion pipeline (see
+`modules/bim/app/services/bim/ifc_models/view_converter_service.rb` in
+[opf/openproject](https://github.com/opf/openproject)).
 
 ## Development
 
@@ -29,7 +31,20 @@ npm install
 npm run dev   # tsx watch on src/index.ts
 npm test      # vitest
 npm run lint
+npm run build # compiles src/ to dist/
 ```
+
+## Releasing
+
+Releases use [changesets](https://github.com/changesets/changesets). Each pull
+request that changes the package needs a changeset. Run `npx changeset` and
+commit the generated file. Pull requests that should not cause a release get
+the `skip changeset` label.
+
+After a merge to `main`, the Release workflow opens or updates a
+"Version Packages" pull request that bumps the version and the changelog.
+Merging that pull request publishes the package to npm with provenance, tags
+`vX.Y.Z` and creates a GitHub release.
 
 ## Test fixtures
 
