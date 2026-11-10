@@ -1,6 +1,6 @@
 {
   "name": "@openproject/web-ifc-xeokit-metadata",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extracts the IFC structural hierarchy as xeokit-sdk metadata JSON. Drop-in replacement for the .NET-based bimspot/xeokit-metadata, built on web-ifc.",
   "main": "dist/index.js",
   "type": "module",
